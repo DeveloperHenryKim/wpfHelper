@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHelper", "WpfHelper\WpfHelper.csproj", "{797B765E-1BE3-4082-9053-0A5441CADE1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797B765E-1BE3-4082-9053-0A5441CADE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797B765E-1BE3-4082-9053-0A5441CADE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797B765E-1BE3-4082-9053-0A5441CADE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797B765E-1BE3-4082-9053-0A5441CADE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258877C8-9D68-47F0-83F2-524F8BABF7C8}
+	EndGlobalSection
+EndGlobal
